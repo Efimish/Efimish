@@ -1,8 +1,8 @@
-<h1 align="center"> Hi 👋, I'm Efim </h1>
+<h1 align="center"> 👋 Hi, I'm Efim </h1>
 <h3 align="center"> A still learning developer from Russia </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Started%20coding%20in%3A-2017-9cf"/>
+<a href="../../../"> <img src="https://img.shields.io/badge/Started%20coding%20in%3A-2017-9cf?labelColor=36393f"/> </a>
 </p>
 
 <h2 align="center"> Technologies im learning </h2>
@@ -19,11 +19,15 @@
 <h2 align="center"> My Github Stats </h2>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Efimish&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <a href="../../../">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Efimish&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  </a>
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Efimish&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <a href="../../../">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Efimish&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  </a>
 </p>
 
 <!---
