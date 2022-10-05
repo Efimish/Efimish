@@ -2,16 +2,15 @@
 <h3 align="center"> A still learning developer from Russia </h3>
 
 <p align="center">
-<img src="https://badges.pufler.dev/repos/Efimish"/>
+<img src="https://img.shields.io/badge/Started%20coding%20in%3A-2017-9cf"/>
 </p>
 
 <h2 align="center"> Technologies im learning </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Java-orange?logo=java"/>
+<img src="https://img.shields.io/badge/-Rust-black?logo=rust"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript"/>
 <img src="https://img.shields.io/badge/-Python-black?logo=python"/>
-<img src="https://img.shields.io/badge/-C++-blue?logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3"/>
 <img src="https://img.shields.io/badge/-NodeJS-black?logo=node.js"/>
