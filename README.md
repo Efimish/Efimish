@@ -8,7 +8,6 @@
 <h2 align="center"> Technologies im learning </h2>
 
 <p align="center">
-<a href="../../../"> <img src="https://img.shields.io/badge/-Rust-black?logo=rust"/> </a>
 <a href="../../../"> <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript"/> </a>
 <a href="../../../"> <img src="https://img.shields.io/badge/-Python-black?logo=python"/> </a>
 <a href="../../../"> <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/> </a>
