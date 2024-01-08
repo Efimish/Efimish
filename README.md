@@ -23,7 +23,7 @@
 
 <p align = "center">
   <a href="../../../">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Efimish&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Efimish&layout=compact&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
   </a>
 </p>
 
