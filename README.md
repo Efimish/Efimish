@@ -1,16 +1,11 @@
 <h1 align="center"> 👋 Hi, I'm Efim </h1>
-<h3 align="center"> A still learning developer from Russia </h3>
-
-<p align="center">
-<a href="../../../"> <img src="https://img.shields.io/badge/Started%20coding%20in%3A-2017-9cf?labelColor=36393f"/> </a>
-</p>
-
+<h3 align="center"> A developer from Russia </h3>
 <h2 align="center"> Technologies im learning </h2>
 
 <p align="center">
-<a href="../../../"> <img src="https://img.shields.io/badge/-Rust-black?logo=rust"/> </a>
-<a href="../../../"> <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript"/> </a>
-<a href="../../../"> <img src="https://img.shields.io/badge/-Svelte-black?logo=svelte"/> </a>
+  <a href="../../../"> <img src="https://img.shields.io/badge/-Rust-black?logo=rust"/> </a>
+  <a href="../../../"> <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript"/> </a>
+  <a href="../../../"> <img src="https://img.shields.io/badge/-Svelte-black?logo=svelte"/> </a>
 </p>
 
 <h2 align="center"> My Github Stats </h2>
