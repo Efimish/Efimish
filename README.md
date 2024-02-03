@@ -2,11 +2,27 @@
 <h3 align="center"> A passionate backend developer from Russia </h3>
 <h2 align="center"> Technologies im learning </h2>
 
+<!--
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=fff)
+-->
+
 <p align="center">
   <a href="../../../">
-    <img src="https://img.shields.io/badge/-Rust-black?logo=rust"/>
-    <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript"/>
-    <img src="https://img.shields.io/badge/-Svelte-black?logo=svelte"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=fff"/>
   </a>
 </p>
 
