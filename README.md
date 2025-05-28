@@ -2,17 +2,15 @@
 
 ## A passionate backend developer from Russia
 
-### Technologies im learning
+### Technologies im using
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=fff)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
+![Linux CLI](https://img.shields.io/badge/-Linux_CLI-FCC624?logo=linux&logoColor=fff)
 
 ### My Stats
 
