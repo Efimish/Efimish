@@ -10,6 +10,15 @@ in specialty "Applied Informatics" (2023-2027).
 - `📄 Resume (English)` &mdash; https://efimish.github.io/resume.pdf
 - `📄 Резюме (Русский)` &mdash; https://efimish.github.io/резюме.pdf
 
+## Technical Interests ✨
+
+- Decentralized and peer-to-peer networks
+- Overlay routing and mesh-like systems
+- Applied cryptography (signing, key-based auth, secure channels)
+- Reproducible development environments
+- Long-term data ownership and archival
+- Local-first software and open formats
+
 ## Tech Stack ⚙️
 
 ![TypeScript](badges/typescript.svg)
