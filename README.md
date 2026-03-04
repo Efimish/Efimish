@@ -6,11 +6,11 @@ in the specialty "Applied Informatics" (2023-2027).
 
 ## Links 🔗
 
-`🌐 Personal Website` → https://efimish.github.io \
+`🪴 Personal Website` → https://efimish.github.io \
 `📄 Resume (English)` → https://efimish.github.io/resume.pdf \
 `📄 Резюме (Русский)` → https://efimish.github.io/резюме.pdf
 
-## Tech Stack 💻
+## Tech Stack ⚙️
 
 ![TypeScript](badges/typescript.svg)
 ![Drizzle ORM](badges/drizzle-orm.svg)
