@@ -6,9 +6,9 @@ in specialty "Applied Informatics" (2023-2027).
 
 ## Links 🔗
 
-- `🪴 Personal Website` &mdash; https://efimish.github.io
-- `📄 Resume (English)` &mdash; https://efimish.github.io/resume.pdf
-- `📄 Резюме (Русский)` &mdash; https://efimish.github.io/резюме.pdf
+- `🪴 Personal Website` &mdash; https://efimish.dev/
+- `📄 Resume (English)` &mdash; https://efimish.dev/resume.pdf
+- `📄 Резюме (Русский)` &mdash; https://efimish.dev/резюме.pdf
 
 ## Technical Interests ✨
 
